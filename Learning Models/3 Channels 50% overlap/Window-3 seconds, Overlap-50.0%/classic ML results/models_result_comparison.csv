@@ -1,0 +1,8 @@
+Model,Accuracy,Sensitivity,Specificity,AUC,Model Path
+Logistic Regression,0.7313161875945537,0.6220532319391635,0.8035175879396985,0.8100594225882263,"Window-3 seconds, Overlap-50.0%\classic ML models\Logistic_Regression.joblib"
+Decision Tree,0.6771558245083207,0.5596958174904944,0.7547738693467336,0.657234843418614,"Window-3 seconds, Overlap-50.0%\classic ML models\Decision_Tree.joblib"
+Random Forest,0.7739788199697428,0.5726235741444867,0.907035175879397,0.8505357586411143,"Window-3 seconds, Overlap-50.0%\classic ML models\Random_Forest.joblib"
+KNN,0.7013615733736762,0.7885931558935361,0.6437185929648241,0.7673941953111565,"Window-3 seconds, Overlap-50.0%\classic ML models\KNN.joblib"
+Naive Bayes,0.7264750378214826,0.8053231939163498,0.6743718592964824,0.7553130672373273,"Window-3 seconds, Overlap-50.0%\classic ML models\Naive_Bayes.joblib"
+SVM,0.7173978819969743,0.6479087452471483,0.7633165829145728,0.797471387355026,"Window-3 seconds, Overlap-50.0%\classic ML models\SVM.joblib"
+XGBoost,0.7763993948562784,0.6342205323193917,0.8703517587939699,0.8604000993560961,"Window-3 seconds, Overlap-50.0%\classic ML models\XGBoost.joblib"
